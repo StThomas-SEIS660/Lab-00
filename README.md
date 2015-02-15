@@ -62,14 +62,14 @@ Paste this to the “Access Requests” topic in the discussion board following 
 Class discussion: why didn’t I automate this? It would have been a simple script to generate all of these on the server and then email you your private keys. 
 
 Learning Linux
-	Log in to seis660.gps.stthomas.edu
-	Log into your account on the server. 
-	Run the first 2 Linux tutorials. 
-	http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html
-	http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html
-	Recommended: Run as many of these as you have time for. 
+* Log in to seis660.gps.stthomas.edu
+* Log into your account on the server. 
+* Run the first 2 Linux tutorials. 
+    * http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html
+    * http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html
+* Recommended: Run as many of these as you have time for. 
 	
-If you have trouble, do not raise your hand. Instead, first ask the question in the chat room. If you are still having trouble after 5 minutes, post a question to the BlackBoard forum. 
+If you have trouble, do not raise your hand. Instead, first ask the question in the chat room. If you are still having trouble after 5 minutes, post a question to the Github forum. 
 
 WHEN you are done with the lab, log into the chat room and discussion board and assist until all of your classmates are done.
 
