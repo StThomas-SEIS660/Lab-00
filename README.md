@@ -13,10 +13,7 @@
 
 **Prerequisites:**
 
-
 Access to a Windows, Mac or Linux machine on the St. Thomas network. 
-
-I will recruit 1-2 experienced Unix admins from the course. 
 
 **Tasks: 
 **
@@ -42,11 +39,11 @@ Navigate to
 
 Copy the PUBLIC key to your clipboard. 
 	
-Mac: bring up your Terminal application (under Applications|Utilities). 
-	Type: 
-		$ cd
-		$ ssh-keygen
-		$ cat id_rsa.pub
+Mac: bring up your Terminal application (under Applications|Utilities). Type:
+	
+    $ cd
+    $ ssh-keygen
+    $ cat id_rsa.pub
 		
 You will get output like:
 ```
@@ -73,6 +70,6 @@ If you have trouble, do not raise your hand. Instead, first ask the question in 
 
 WHEN you are done with the lab, log into the chat room and discussion board and assist until all of your classmates are done.
 
-For next week: 
+Lab 02 preview/prep: 
 
 Download and install VirtualBox and Vagrant on your local system (these are not yet available on the classroom machines).  Next week, we will work on setting these up. 
