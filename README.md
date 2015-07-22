@@ -1,4 +1,4 @@
-# Lab-01
+# Lab-00
 ## Configure ssh access to a remote server
 
 **Note: This is a rough copy of the lab instructions for an already-passed lab. They need further work for the next semester.**
